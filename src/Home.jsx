@@ -8,7 +8,7 @@ function Home() {
       <div className='Bannercon'></div>
         <Carousel.Caption>
           <h3>TOURS & TRAVEL</h3>
-         <h1>Let's Discover The World Together</h1> 
+         <h1>Let's Discover The World Together with us</h1> 
          <button>Book Now</button>
         </Carousel.Caption>
       </Carousel.Item>
