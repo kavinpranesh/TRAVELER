@@ -12,8 +12,8 @@ function Travel() {
     
       <header className="Travel-header">
         <div className="Navibar">
-          <div className="menu1"><FiMail/><span>   info@example.com  |</span></div>
-          <div className='menu2'><BiSolidPhone/><span>   +012 345 6789</span></div>
+          <div className="menu1"><FiMail/>   info@example.com  |</div>
+          <div className='menu2'><BiSolidPhone/>   +012 345 6789</div>
           <div className='menu3'><div className='icon1'><BiLogoFacebook/></div><div className='icon2'><FaTwitter/></div><div className='icon3'><FaLinkedinIn/></div><div className='icon4'><BsInstagram/></div><div className='icon5'><FaYoutube/></div></div>
         </div>
 

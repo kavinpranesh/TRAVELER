@@ -18,18 +18,21 @@ body {
   /* width: 15%; */
   /* border-style: dashed; */
   float: left;
+  margin-top: 15px;
   margin-left: 120px;
 }
 .menu2{
   height: 50px;
   /* width: 10%; */
   margin-left: 15px;
+  margin-top: 15px;
   /* border-style: dotted; */
   float: left;
 }
 .menu3{
   height: 50px;
   color: #7AB730;
+  margin-top: 15px;
   /* border-style: dotted; */
   float: right;
   margin-right: 115px;
@@ -60,15 +63,41 @@ body {
   filter: brightness(50%);
   background-size: cover;
 }
-h1{
-  font-size: 6rem;
+.text1{
   margin-bottom: 10px;
 }
-h1,h3{color: #fff;}
-button{
-  height: 50px;
+.text2{color: #fff;
+  margin-bottom: 40px;
+  font-weight: bolder;
+  font-family: sans-serif; 
+  font-size: 5rem;}
+  .nav-link{
+    color: #212121;
+    font-weight: 500;
+  }
+  Navbar.Brand{
+    margin-left: 100px;
+  }
+  .home1{
+    color: #7AB730;
+  }
+  .nav-link:hover{
+    color: #7AB730;
+  }
+h3{color: #fff;}
+.butt1{
+  border-color: #7AB730;
   background-color: #7AB730;
+  color: #fff;
   margin-bottom: 80px;
+  height: 3rem;
+  width: 8rem;
+  font-size: 1rem;
+  font-family: sans-serif;
+  border: 1px solid transparent;
+}
+.butt1:hover{
+  filter: brightness(75%);
 }
 .bg-body-tertiary{
   height: 100px;
@@ -80,17 +109,17 @@ button{
 }
 .me-auto{
   /* border-style: dotted; */
-  margin-left: 400px;
+  margin-left: 350px;
 }
 .title{color: #7AB730;}
 .Menu4{
-  /* border-style: dashed; */
+  border-style: dashed;
   height: 100px;
   width: 83%;
   margin-left: 115px;
-  background-color: azure;
+  background-color:aqua;
   position: relative;
-  margin-top: 550px;
+  margin-top: 540px;
 }
 .about1
 {

@@ -7,17 +7,17 @@ function Home() {
       <Carousel.Item>
       <div className='Bannercon'></div>
         <Carousel.Caption>
-          <h3>TOURS & TRAVEL</h3>
-         <h1>Let's Discover The World Together with us</h1> 
-         <button>Book Now</button>
+          <h3 className='text1'>TOURS & TRAVEL</h3>
+         <h1 className='text2'>Let's Discover The World Together</h1> 
+         <button className='butt1'>BOOK NOW</button>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
       <div className='Bannercon2'></div>
         <Carousel.Caption>
-          <h3>TOURS & TRAVEL</h3>
-          <h1>Discover Amazing Places With Us</h1>
-          <button>Book Now</button>
+          <h3 className='text1'>TOURS & TRAVEL</h3>
+          <h1 className='text2'>Discover Amazing Places With Us</h1>
+          <button className='butt1'>Book Now</button>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
