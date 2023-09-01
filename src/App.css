@@ -100,12 +100,12 @@ h3{color: #fff;}
   filter: brightness(75%);
 }
 .bg-body-tertiary{
-  height: 100px;
+  height: 80px;
   width: 83%;
   margin-left: 115px;
   background-color: azure;
   position: relative;
-  margin-top: -710px;
+  margin-top: -750px;
 }
 .me-auto{
   /* border-style: dotted; */
