@@ -12,7 +12,7 @@ function Destmenu(){
                 <div className='fromdate'></div>
                 <div className='returndate'></div>
                 <div className='duration'></div>
-                <div><button>Submit</button></div>
+                <div><button className='butt2'>Submit</button></div>
             </div>
         </div>
     );
