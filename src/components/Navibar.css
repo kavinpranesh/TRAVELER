@@ -1,0 +1,24 @@
+.bg-body-tertiary{
+    height: 80px;
+    width: 83%;
+    margin-left: 115px;
+    background-color: #f3f3f3;
+    position: relative;
+    margin-top: -900px;
+    box-shadow: 0 1rem 3rem rgba(0,0,0,0.175);
+  }
+  .me-auto{
+    /* border-style: dotted; */
+    margin-left: 330px;
+  }
+  .title1{
+    margin-left: 40px;
+  }
+  .title{color: #7AB730;}
+  .nav-link:hover{
+    color: #7AB730;
+  }
+  Navbar.Brand{
+    margin-left: 100px;
+  }
+  

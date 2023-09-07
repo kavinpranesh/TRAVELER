@@ -1,23 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Travel from './Travel';
-import Home from './Home';
-import Menu from './Menu';
-import Destmenu from './Destmenu';
-import About from './About';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Travel/>
-    <Home/>
-    <Menu/>
-    <Destmenu/>
-    <About/>
-    
-    
+    <App />
   </React.StrictMode>
 );
 

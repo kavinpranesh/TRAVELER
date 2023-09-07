@@ -1,7 +1,7 @@
-import './App.css'
-import ima4 from '../src/image/about.jpg';
-import ima5 from '../src/image/about-1.jpg';
-import ima6 from '../src/image/about-2.jpg';
+import '../components/About.css';
+import ima4 from '../image/about.jpg';
+import ima5 from '../image/about-1.jpg';
+import ima6 from '../image/about-2.jpg';
 function About(){
     return(
         <div className='about1'>

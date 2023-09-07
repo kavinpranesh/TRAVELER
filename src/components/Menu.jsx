@@ -1,4 +1,4 @@
-import './App.css';
+import '../components/Menu.css'
 import {FiMail} from "react-icons/fi"
 import {BiSolidPhone} from "react-icons/bi"
 import {FaFacebookF} from "react-icons/fa" 
@@ -7,7 +7,7 @@ import {FaLinkedinIn} from "react-icons/fa"
 import {BsInstagram} from "react-icons/bs"
 import {SiYoutube} from "react-icons/si"
 
-function Travel() {
+function Menu() {
   return (
     
       <header className="Travel-header">
@@ -26,4 +26,4 @@ function Travel() {
   );
 }
 
-export default Travel;
+export default Menu;

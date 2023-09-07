@@ -1,5 +1,5 @@
-import './App.css'
-function Destmenu(){
+import '../components/Menu2.css';
+function Menu2(){
     return(
         <div className='Menu4'>
             <div className='menucontent'>
@@ -23,4 +23,4 @@ function Destmenu(){
     );
 
 }
-export default Destmenu;
+export default Menu2;

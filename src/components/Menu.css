@@ -1,0 +1,34 @@
+.Navibar{
+    height: 100px;
+    width: 100%;
+    /* position: absolute; */
+    /* border-style: dotted; */
+  }
+  .menu1{
+    height: 50px;
+    /* width: 15%; */
+    /* border-style: dashed; */
+    float: left;
+    margin-top: 15px;
+    margin-left: 120px;
+  }
+  .menu2{
+    height: 50px;
+    /* width: 10%; */
+    margin-left: 15px;
+    margin-top: 15px;
+    /* border-style: dotted; */
+    float: left;
+  }
+  .menu3{
+    height: 50px;
+    color: #7AB730;
+    margin-top: 15px;
+    /* border-style: dotted; */
+    float: right;
+    margin-right: 115px;
+    cursor: pointer;
+    display: flex;
+  }
+  .icon1,.icon2,.icon3,.icon4,.icon5{padding-left: 30px;}
+  
