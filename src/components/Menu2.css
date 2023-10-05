@@ -17,10 +17,10 @@
     justify-content: space-evenly;
     gap: 3rem;
   }
-  .destination,.fromdate,.returndate,.duration,.butt2{
+  .destination,.date,.duration,.butt2{
     height: 3rem;
     width: 10rem;
-    border-style: dashed;
+    /* border-style: dashed; */
     margin-top: 1.5rem;
   }
   .butt2{
