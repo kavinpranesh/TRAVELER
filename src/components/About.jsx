@@ -2,6 +2,9 @@ import '../components/About.css';
 import ima4 from '../image/about.jpg';
 import ima5 from '../image/about-1.jpg';
 import ima6 from '../image/about-2.jpg';
+import {FaMoneyCheckAlt} from "react-icons/fa"
+import {FaAward} from "react-icons/fa"
+import {FaGlobe} from "react-icons/fa"
 function About(){
     return(
         <div className='about1'>
@@ -21,6 +24,7 @@ function About(){
             </div>
             <button className='butt3'>BOOK NOW</button>
             </div>
+            <div className='batch'><FaMoneyCheckAlt /> <FaAward /> <FaGlobe /></div>
         </div>
         
     );
