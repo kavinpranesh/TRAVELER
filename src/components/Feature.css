@@ -1,0 +1,30 @@
+.batch{
+  height: 100px;
+  width: 80%;
+  /* border-style: dashed; */
+  margin-top: 1050px;
+  margin-left: 115px;
+}
+.money{
+    width: 10%;
+    height: 100px;
+    background-color: #7AB730;
+    font-size: large;
+    float: left;
+    padding: 35px;
+  }
+  .award{
+    width: 10%;
+    height: 100px;
+    margin-left: 350px;
+    background-color: #7AB730;
+    float: left;
+    padding: 35px;
+  }
+  .globe{
+    width: 10%;
+    height: 100px;
+    background-color: #7AB730;
+    float: right;
+    padding: 35px;
+  }

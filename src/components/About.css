@@ -28,7 +28,7 @@
   font-size: 1rem;
 }
 .text4{
-  width: 110%;
+  width: 105%;
   font-weight: 700;
   font-size: 2.5rem;
   color: #212121;
@@ -66,9 +66,3 @@
   line-height: 1.5;
 }
 .butt3:hover{filter: brightness(50%);}
-.batch{
-  height: 2rem;
-  width: 3rem;
-  border-style: dashed;
-  background-color: #7AB730;
-}

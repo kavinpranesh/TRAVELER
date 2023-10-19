@@ -10,16 +10,14 @@ function Menu2(){
                     <option value="3">Destination3</option>
                 </select>
                 <div class="fromdate">
-                        <div class="date" id="date1" data-target-input="nearest">
-                            <input type="date" placeholder='Depart Date' />
+                        <input type="date" placeholder='Depart Date' />
                 </div>
-                        </div>
+                        
                 
                 <div class="returndate">
-                        <div class="date" id="date2" data-target-input="nearest">
-                            <input type="date" placeholder="Return Date" />
+                        <input type="text" placeholder='Return Date' />
                 </div>
-                        </div>
+                        
                 <select className="duration">
                     <option selected>Duration</option>
                     <option value="1">Duration1</option>

@@ -17,14 +17,14 @@
     justify-content: space-evenly;
     gap: 3rem;
   }
-  .destination,.date,.duration,.butt2{
+  .destination,.fromdate,.returndate,.duration,.butt2{
     height: 3rem;
     width: 10rem;
     /* border-style: dashed; */
     margin-top: 1.5rem;
   }
   .butt2{
-    color: #fff;
+    color: #201515;
     background-color: #7AB730;
     border-color: #7AB730;
     border: 1px solid transparent;
